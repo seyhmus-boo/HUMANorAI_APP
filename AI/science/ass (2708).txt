@@ -1,0 +1,7 @@
+Black hole formation: A cosmic collapse
+
+Black hole formation represents a dramatic endpoint in stellar evolution, a process readily understood through analogy.  Imagine a giant bouncy ball (a massive star) repeatedly bouncing, its internal pressure countering the inward pull of gravity.  This pressure, fuelled by nuclear fusion, represents the star's battle against its own immense mass.  However, as the star exhausts its nuclear fuel, this "bounce" weakens, akin to the ball losing its elasticity.  For sufficiently massive stars, this weakening is irreversible.  Gravity wins, initiating a catastrophic collapse.
+
+This collapse can be visualized as the ball being relentlessly compressed, its volume shrinking dramatically while its mass remains constant.  The density increases exponentially, surpassing all known materials and ultimately reaching a singularity – a point of infinite density, analogous to squeezing the entire bouncy ball into an infinitely small point.  This singularity forms the black hole's core, its immense gravitational pull warping spacetime around it, creating the event horizon: a point of no return, like a one-way trapdoor in spacetime.
+
+Different stellar masses dictate varying pathways to black hole formation, with direct collapse of massive stars contrasted by the more gradual process of neutron star mergers. This presentation will explore these diverse formation mechanisms, employing further intuitive analogies to clarify the complex physical processes involved in this awe-inspiring phenomenon.

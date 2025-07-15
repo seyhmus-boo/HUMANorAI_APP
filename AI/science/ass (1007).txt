@@ -1,0 +1,5 @@
+DNA replication is the semi-conservative process by which a cell creates an identical copy of its DNA molecule.  Imagine DNA as a twisted ladder (double helix), where each rung represents a base pair.  Replication begins with the enzyme helicase "unzipping" this ladder, separating the two strands.  Each separated strand now acts as a template.
+
+Think of this template as a photographic negative; it dictates the construction of its positive counterpart.  DNA polymerase, acting like a skilled builder, adds complementary nucleotides (the "building blocks") to each template strand.  This follows the base-pairing rules: adenine (A) with thymine (T), and guanine (G) with cytosine (C).  The process is highly accurate, but occasional errors can occur, leading to mutations.
+
+The result is two identical DNA "ladders", each consisting of one original strand (the template) and one newly synthesized strand.  This semi-conservative nature ensures genetic fidelity across generations, preserving the organism's genetic information.  The process concludes with the newly replicated molecules winding back into their double helix structure, ready for cell division.

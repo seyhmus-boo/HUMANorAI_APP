@@ -1,0 +1,7 @@
+Good morning, class. Today's lecture focuses on chemical bonding and its influence on molecular structure.  Essentially, atoms, like sociable individuals, strive for stability, achieved by attaining a full valence electron shell.  This drive manifests in chemical bonding, where atoms share, donate, or accept electrons.
+
+Ionic bonds, analogous to a strong, unequal partnership, form when one atom (the electron donor, like a generous philanthropist) completely transfers electrons to another (the acceptor, like a wealthy benefactor).  This creates oppositely charged ions held together by electrostatic attraction.
+
+Covalent bonds, conversely, represent a more equitable partnership, where atoms share electrons, much like roommates splitting rent.  The shared electrons create a stable molecular structure dependent on the number of shared pairs, resulting in diverse geometries like linear, tetrahedral, or trigonal bipyramidal.
+
+Finally, metallic bonding acts as a communal electron sea, where electrons are delocalized and shared amongst a lattice of positive ions – a societal model of shared resources promoting stability and conductivity.  Understanding these bonding types is paramount to predicting the properties and behaviour of molecules, a critical aspect of chemistry.
